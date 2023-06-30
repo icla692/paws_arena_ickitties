@@ -1,4 +1,151 @@
-
-.unity-wrapper{
+#root{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: black;
+}
+.unity-wrapper {
   width: 100%;
+  max-width: calc(100vh * 1.78);
+  aspect-ratio: 1.78;
+  margin:auto;
+  display: block;
+}
+
+.wallet-buttons{
+  position: absolute;
+  /* width: 200px;
+  height: 250px;
+  left: calc(50% - 100px);
+  top: 500px; */
+
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: calc(100vh * 1.78);
+  aspect-ratio: 1.78;
+  margin: auto;
+  display: block;
+}
+.stoic{
+  max-height: 11pt;
+}
+.stoic-span{
+  padding-top: 5pt;
+  padding-bottom: 5pt;
+}
+.plug-button .custom-button {
+  width: 100%;
+
+  border: none;
+  background: linear-gradient(93.07deg, rgb(255, 215, 25) 0.61%, rgb(247, 84, 212) 33.98%, rgb(31, 209, 236) 65.84%, rgb(72, 250, 107) 97.7%);
+  padding: 2px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease 0s;
+
+  color: white;
+  font-size: 2em;
+
+}
+
+.button-73 {
+  /* appearance: none;
+  background: linear-gradient(93.07deg, rgb(255, 215, 25) 0.61%, rgb(247, 84, 212) 33.98%, rgb(31, 209, 236) 65.84%, rgb(72, 250, 107) 97.7%);
+  color: white;
+  transition: transform 0.3s ease 0s;
+  background-color: #FFFFFF;
+  border: none;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 2em;
+  font-weight: 600;
+  letter-spacing: -1.24px;
+  margin: 0;
+  border: 10px;
+  outline: none;
+  padding: 1rem 1.3rem;
+  quotes: auto;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  padding: 2px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 2em; */
+
+  border: none;
+  background: linear-gradient(93.07deg, rgb(255, 215, 25) 0.61%, rgb(247, 84, 212) 33.98%, rgb(31, 209, 236) 65.84%, rgb(72, 250, 107) 97.7%);
+  padding: 2px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease 0s;
+}
+
+.divTableBody{
+  position: absolute;
+  bottom:100px;
+  width: 100%;
+}
+
+.divTableCell {
+  margin-top: 10px;
+
+  text-align: center;
+}
+
+.button-73:hover {
+  background-color: #FFC229;
+  box-shadow: #FF6314 0 -6px 8px inset;
+  transform: scale(1.05);
+}
+
+.button-73:active {
+  transform: scale(1.025);
+}
+
+@media (min-width: 768px) {
+  .button-73 {
+    font-size: 1.5rem;
+    padding: .75rem 2rem;
+  }
+}
+
+.container {
+  position: relative;
+  /* The container determains the size. */
+  width: 800px;
+  height: 600px;
+}
+.container > .loading-overlay {
+  /* We'll render the overlay on top of the Unity Application. */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: grey;
+  /* We'll set the following Flex properties in order to center the text. */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.background-image {
+  background-image: url(./welcome_screen.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  max-width: calc(100vh * 1.78);
+  aspect-ratio: 1.78;
+  background-position: center; 
+  overflow: hidden;
+  margin:auto;
+  display: block;
 }
