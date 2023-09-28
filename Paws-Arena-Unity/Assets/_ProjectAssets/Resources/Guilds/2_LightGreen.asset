@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e633f06b04b980045b0dc0415ebbb211, type: 3}
+  m_Name: 2_LightGreen
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: 2
+  <Badge>k__BackingField: {fileID: 21300000, guid: f88947c3c4198ff45b3d5028e25d2cd6, type: 3}
+  <Flag>k__BackingField: {fileID: 21300000, guid: 80a01057267f02443926231c6d64f5b3, type: 3}
+  <Kitty>k__BackingField: {fileID: 21300000, guid: 89e0d786f01bb11459042790b126a548, type: 3}
+  <SelectedKitty>k__BackingField: {fileID: 21300000, guid: 4fb81c3226d2b0f4f9a3a8dd330b5f41, type: 3}

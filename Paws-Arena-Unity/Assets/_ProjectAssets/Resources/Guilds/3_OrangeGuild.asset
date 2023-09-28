@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e633f06b04b980045b0dc0415ebbb211, type: 3}
+  m_Name: 3_OrangeGuild
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: 3
+  <Badge>k__BackingField: {fileID: 21300000, guid: 33d670fa7e47fb84e9ed87d583b7620c, type: 3}
+  <Flag>k__BackingField: {fileID: 21300000, guid: 035d521c119cafe4ab5762562619b05f, type: 3}
+  <Kitty>k__BackingField: {fileID: 21300000, guid: ca0b3bae672bf484d81dad406cbc1268, type: 3}
+  <SelectedKitty>k__BackingField: {fileID: 21300000, guid: e4cd465dc0a19294f90aa31bf9761386, type: 3}

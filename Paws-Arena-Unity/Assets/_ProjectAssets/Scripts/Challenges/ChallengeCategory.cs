@@ -1,0 +1,24 @@
+public enum ChallengeCategory
+{
+    WinGame,
+    CraftItem,
+    CraftShard,
+    GainExperience,
+    GainLeaderboardPoints,
+    WinWithFullHp,
+    LoseMatch,
+    DealDamage,
+    UseMilkBottle,
+    HealYourKitty,
+    PlayMatch,
+    ShootRocket,
+    ShootCannon,
+    ShootTripleRocket,
+    ShootPlane,
+    ShootMouse,
+    ShootArrow,
+    WinMatchesInARow,
+    WinMatchWithLessThan10Hp,
+    WinMatchWithLessThan20Hp,
+    WinMatchWithLessThan30Hp
+}

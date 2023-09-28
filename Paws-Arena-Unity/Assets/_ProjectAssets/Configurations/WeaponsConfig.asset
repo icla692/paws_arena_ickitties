@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f0b8c4f25334844eaa7382595cc22bc, type: 3}
+  m_Name: WeaponsConfig
+  m_EditorClassIdentifier: 
+  weapons:
+  - launcherPrefab: {fileID: 2139148468263486666, guid: 77e3c4dda9b56cd458db489a9031907c, type: 3}
+    bulletPrefab: {fileID: 4174453076262886263, guid: 7512ed148be88794a8d115915ddc0da6, type: 3}
+    numberOfProjectiles: 1
+    waitBeforeTurnEnd: 4
+    numberOfDamageDealers: 1
+  - launcherPrefab: {fileID: 7970836721146243162, guid: 276399106d3448641adb4483c343e529, type: 3}
+    bulletPrefab: {fileID: 4174453076262886263, guid: f27856aa2b1b76943a1c423982df6788, type: 3}
+    numberOfProjectiles: 1
+    waitBeforeTurnEnd: 7
+    numberOfDamageDealers: 1
+  - launcherPrefab: {fileID: 9160648912923808778, guid: 6a8a8316794772c4cac57283c5358229, type: 3}
+    bulletPrefab: {fileID: 4174453076262886263, guid: 8cf0ccb2c164cf3478a2f5873c70f138, type: 3}
+    numberOfProjectiles: 1
+    waitBeforeTurnEnd: 6
+    numberOfDamageDealers: 3
+  - launcherPrefab: {fileID: 5045544995826243615, guid: 5a9c2087cd6200b479c1efcc6899f8ef, type: 3}
+    bulletPrefab: {fileID: 4174453076262886263, guid: 22db018f416a4a641bd7f383b29881c7, type: 3}
+    numberOfProjectiles: 1
+    waitBeforeTurnEnd: 9
+    numberOfDamageDealers: 3
+  - launcherPrefab: {fileID: 214707043324590199, guid: 6379b6f2766b9d04ab6aa0b0fbd55099, type: 3}
+    bulletPrefab: {fileID: 4174453076262886263, guid: 0ea1add238907d743b176cf563f25b72, type: 3}
+    numberOfProjectiles: 1
+    waitBeforeTurnEnd: 8
+    numberOfDamageDealers: 1
+  - launcherPrefab: {fileID: 7791233325958276384, guid: 1d81ab45b2efd2d42bc31c35089ef51e, type: 3}
+    bulletPrefab: {fileID: 4174453076262886263, guid: 9a3231087f5de9048b7b9b0f4f03826e, type: 3}
+    numberOfProjectiles: 1
+    waitBeforeTurnEnd: 4
+    numberOfDamageDealers: 1

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e633f06b04b980045b0dc0415ebbb211, type: 3}
+  m_Name: 6_RedGuild
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: 6
+  <Badge>k__BackingField: {fileID: 21300000, guid: 634f474d1b187af4ba9453f1594f930e, type: 3}
+  <Flag>k__BackingField: {fileID: 21300000, guid: 95f51440ac9dc98449e72c8aa2ce9197, type: 3}
+  <Kitty>k__BackingField: {fileID: 21300000, guid: cd6da7f7c5e526c48a0b503021d23236, type: 3}
+  <SelectedKitty>k__BackingField: {fileID: 21300000, guid: 35fd754c5edd362438210eba77b67bb8, type: 3}

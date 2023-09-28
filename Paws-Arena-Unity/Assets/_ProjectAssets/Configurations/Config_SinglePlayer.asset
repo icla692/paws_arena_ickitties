@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3916bdf1dd76659459c8b39607dd49c6, type: 3}
+  m_Name: Config_SinglePlayer
+  m_EditorClassIdentifier: 
+  gameType: 1
+  maxNumberOfRounds: 15
+  turnDurationInSeconds: 30
+  playerTotalHealth: 100
+  airControl: 1
+  playerSpeed: 15
+  playerJumpForce: 10
+  movementSmoothing: 0.05
+  indicatorSpeed: 50
+  bulletSpeed: {x: 1, y: 20}
+  factorRotationRocket: 4
+  circleShootRadius: 5.5
+  numberOfLines: 30
+  chatLineHeight: 45
+  offsetHeightRefreshChat: 120
+  betValue: 100

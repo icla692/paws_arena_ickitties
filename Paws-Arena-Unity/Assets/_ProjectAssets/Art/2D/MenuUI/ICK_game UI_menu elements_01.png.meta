@@ -1,0 +1,669 @@
+fileFormatVersion: 2
+guid: aca6eb77f82259b46a66e4327dd30ea4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 899
+        width: 353
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e93caa41c0bb0140b78b9f8106bc2cf
+      internalID: -7981832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_1
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 899
+        width: 353
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48259bf9fd9c71a49ad69c027f1e6bb4
+      internalID: 1538555001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_2
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 921
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1fe559de579b14c956552df9ecea74
+      internalID: -1897501781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_3
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 921
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399d82a5f1587e248a90b356c405fcd9
+      internalID: -461051476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_4
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 950
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7046ce228f6284ab5ab1297cee81f6
+      internalID: 162856465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_5
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 950
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae015c0dc2b47468ac387431e7878b
+      internalID: -892769840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_6
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 946
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b4d2152f78d54eaf88734714270e6
+      internalID: 1032900230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_7
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 930
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2345b150a55777b4ab1cc5fe593d68d4
+      internalID: 1556692919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_8
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 922
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb55fec447b3ac42bd89cb10a367067
+      internalID: -614811935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_9
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 945
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a3ab2a07f0a24fa338220e1b0f4ab
+      internalID: 2023081729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 726
+        width: 369
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5929d64416165a8488ddaf4bce36aec6
+      internalID: 1354134836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_11
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 726
+        width: 372
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1add6348fca6146b0791e66367d1a6
+      internalID: -282244159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_12
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 819
+        width: 768
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44ef7666b8643849803d21ebbe2ac9d
+      internalID: -808836125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_13
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 756
+        width: 776
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb93028b71316444b7d00a4b78804ad
+      internalID: 2112214354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 503
+        width: 429
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200dbeb907ae77247aeacd837fb51861
+      internalID: -704366730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 524
+        width: 127
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 45, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ee1e8879598a4e99eba43888b2f4f
+      internalID: -1241487787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_16
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 530
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875c2ede1b92cbe4dafaf9e838a386a9
+      internalID: -2138879269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_17
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 552
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3fc8b8db8317d48b29d5fb6d8793f0
+      internalID: 1540208216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_18
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 497
+        width: 695
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8272f2340dbe048a9f97927d619d8f
+      internalID: 309345906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2
+        width: 724
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 373}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb6d5a7ffdffa14882df048294a1655
+      internalID: -1482280417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_20
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 434
+        width: 197
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5f101d6f45d2c4daf2c1797f61e24d
+      internalID: -988891548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_21
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 272
+        width: 244
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b147c4c5516a41b4ce001d8388312
+      internalID: 604270117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICK_game UI_menu elements_01_22
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 2
+        width: 764
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 394}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a388862227da4714eaeb7516a9937cc3
+      internalID: -234247476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ICK_game UI_menu elements_01_12: -808836125
+      ICK_game UI_menu elements_01_4: 162856465
+      ICK_game UI_menu elements_01_16: -2138879269
+      ICK_game UI_menu elements_01_25: -877791080
+      ICK_game UI_menu elements_01_7: 1556692919
+      ICK_game UI_menu elements_01_23: 1205323483
+      ICK_game UI_menu elements_01_19: -1482280417
+      ICK_game UI_menu elements_01_10: 1354134836
+      ICK_game UI_menu elements_01_22: -234247476
+      ICK_game UI_menu elements_01_18: 309345906
+      ICK_game UI_menu elements_01_17: 1540208216
+      ICK_game UI_menu elements_01_9: 2023081729
+      ICK_game UI_menu elements_01_14: -704366730
+      ICK_game UI_menu elements_01_20: -988891548
+      ICK_game UI_menu elements_01_3: -461051476
+      ICK_game UI_menu elements_01_1: 1538555001
+      ICK_game UI_menu elements_01_8: -614811935
+      ICK_game UI_menu elements_01_27: 1019440732
+      ICK_game UI_menu elements_01_5: -892769840
+      ICK_game UI_menu elements_01_26: 857102816
+      ICK_game UI_menu elements_01_11: -282244159
+      ICK_game UI_menu elements_01_24: 1058304081
+      ICK_game UI_menu elements_01_21: 604270117
+      ICK_game UI_menu elements_01_2: -1897501781
+      ICK_game UI_menu elements_01_6: 1032900230
+      ICK_game UI_menu elements_01_13: 2112214354
+      ICK_game UI_menu elements_01_15: -1241487787
+      ICK_game UI_menu elements_01_0: -7981832
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
